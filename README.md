@@ -1,3 +1,1 @@
-- 👀 I’m interested in developing softwares, mini applications and API.
-- 💞️ I’m looking to collaborate on making small projects and learning new things.
-- 📫 How to reach me : on my email "denis.030206@gmail.com"
+
